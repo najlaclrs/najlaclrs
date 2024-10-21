@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on impact projects & new frontiers of technology
 - 📫 How to reach me : DM 
 - 😄 Pronouns: she/her/wizard
-- ⚡ Fun fact: [loading]
+- ⚡ Fun fact: founded an IoT health-tech startup, co-authoring a book on fintech
 
 <!---
 najlaclrs/najlaclrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
